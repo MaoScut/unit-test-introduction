@@ -13,6 +13,11 @@ E2E Testing or end-to-end testing, is the practice of testing if the execution o
 
 ## 单元测试的不足
 
+## 单元测试的工具
+karma: 是一个test runner, 能够在浏览器执行js测试文件,展示测试结果
+这些是test framework: jasmine, mocha, supertest都是什么?
+
 ## 目前的使用情况
+angular用的是karma+jasmine, 看karma的配置文件可知
 
 ## 实战
